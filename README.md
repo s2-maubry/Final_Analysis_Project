@@ -1,7 +1,13 @@
 # Final_Analysis_Project
 Extra credit final repository
+
+## Repository Structure
+- **Final_Alignments/**: Contains the final alignment file(s) generated during the analysis.
+- **Final_Trees/**: Contains the final phylogenetic tree(s) in Newick and PDF formats.
+- **Final_Reconciliations/**: Contains the reconciled gene tree(s) and visual representations in SVG and PDF formats.
+
+
 # Lab 3: Finding homologs with BLAST KEY
-## Find and align YOUR gene family homologs by using your "StartingGene" as the query sequence.
 
 Step 1: make a new directory called MARF1
 ```
